@@ -38,7 +38,7 @@ function Footer() {
           <div className="grid grid-two-cols">
             <div className="copyright-text">
               <p>
-                Copyright &copy; 2024, All Right Reserved DevStorm
+                Copyright &copy; 2025, All Right Reserved DevStorm
               </p>
             </div>
 
