@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Bhavnagar, Gujarat"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "1211202406"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "devstorm@gmail.com"
+  }
+]
