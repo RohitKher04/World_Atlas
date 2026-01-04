@@ -38,7 +38,7 @@ function Footer() {
           <div className="grid grid-two-cols">
             <div className="copyright-text">
               <p>
-                Copyright &copy; 2025, All Right Reserved DevStorm
+                Copyright &copy; 2025, All Right Reserved xyz
               </p>
             </div>
 
@@ -50,7 +50,7 @@ function Footer() {
 
                 <li>
                   <NavLink
-                    to="https://www.instagram.com/bhargav_maru_06/"
+                    to="https://www.instagram.com/rohit_k_004?igsh=bHNtOXdzejJjNGZz"
                     target="_blank"
                   >
                     Social

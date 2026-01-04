@@ -2,7 +2,7 @@
   {
     "icon": "MdPlace",
     "title": "Find us",
-    "details": "Bhavnagar, Gujarat"
+    "details": "Rajkot, Gujarat"
   },
   {
     "icon": "IoCallSharp",
@@ -12,6 +12,6 @@
   {
     "icon": "TbMailPlus",
     "title": "Mail us",
-    "details": "devstorm@gmail.com"
+    "details": "contactme@gmail.com"
   }
 ]
